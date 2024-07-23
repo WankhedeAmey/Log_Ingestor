@@ -1,1 +1,1 @@
-# Log Ingestor & Query Interface
+# log-ingestor-with-query-interface
