@@ -66,7 +66,14 @@ The frontend is built with:
 ### Frontend
 
 1. Navigate to the `frontend` directory:
-  ```bash
-    cd frontend
-    npm install
-    npm run dev ```
+  ```
+  cd frontend
+  npm install
+  npm run dev
+  ```
+
+## Usage
+
+	1.	Run the Backend: Ensure the backend server is running.
+	2.	Run the Frontend: Start the frontend development server.
+	3.	Access the Application: Open your browser and navigate to http://localhost:5173/ to use the application.
