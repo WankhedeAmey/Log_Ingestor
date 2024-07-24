@@ -1,6 +1,8 @@
 # Log Ingestor with Query Interface
 
+## Query Interface with dynamic query generator
 ![Query Section with dynamic query generator](https://github.com/WankhedeAmey/Log_Ingestor/blob/main/img/ss_query.png?raw=true)
+## Filtered Logs section with clean styles
 ![Filtered logs being shown with clean styling](https://github.com/WankhedeAmey/Log_Ingestor/blob/main/img/ss_log.png?raw=true)
 
 
