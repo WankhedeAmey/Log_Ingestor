@@ -1,5 +1,9 @@
 # Log Ingestor with Query Interface
 
+![Query Section with dynamic query generator](https://github.com/WankhedeAmey/Log_Ingestor/blob/main/img/ss_query.png?raw=true)
+![Filtered logs being shown with clean styling](https://github.com/WankhedeAmey/Log_Ingestor/blob/main/img/ss_log.png?raw=true)
+
+
 ## Overview
 
 This project is a full-stack log ingestion system with a query interface. It consists of a backend built with Node.js and Express, and a frontend built with React, Tailwind CSS, and PostCSS. The application allows users to create, store, and fetch logs based on various filters, providing a clean and minimal user interface.
